@@ -13,7 +13,7 @@
 	<version>0.1.1-SNAPSHOT</version>
 
 	<name>SciJava Plugins: Text: Plain</name>
-	<description>Core text plugin for plain text.</description>
+	<description>Core text format plugin for plain text.</description>
 	<inceptionYear>2010</inceptionYear>
 
 	<licenses>
