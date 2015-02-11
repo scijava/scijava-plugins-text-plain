@@ -1,8 +1,8 @@
 /*
  * #%L
- * Core text plugin for plain text.
+ * Core text format plugin for plain text.
  * %%
- * Copyright (C) 2010 - 2014 Board of Regents of the University of
+ * Copyright (C) 2010 - 2015 Board of Regents of the University of
  * Wisconsin-Madison.
  * %%
  * Redistribution and use in source and binary forms, with or without
