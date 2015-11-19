@@ -10,7 +10,7 @@
 	</parent>
 
 	<artifactId>scijava-plugins-text-plain</artifactId>
-	<version>0.1.2-SNAPSHOT</version>
+	<version>0.1.3-SNAPSHOT</version>
 
 	<name>SciJava Plugins: Text: Plain</name>
 	<description>Core text format plugin for plain text.</description>
