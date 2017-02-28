@@ -1,4 +1,4 @@
-[![](http://jenkins.imagej.net/job/SciJava-plugins-text-plain/lastBuild/badge/icon)](http://jenkins.imagej.net/job/SciJava-plugins-text-plain/)
+[![](https://travis-ci.org/scijava/scijava-plugins-text-plain.svg?branch=master)](https://travis-ci.org/scijava/scijava-plugins-text-plain)
 
 SciJava Plugins: Text: Plain
 ----------------------------
